@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=200&random=false&lines=Security+Enthusiast;Backend+Developer;LLM+Researcher;Always+Learning&width=280">
   </a>
 </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsourobh" &label=Profile%20views&color=0e75b6&style=flat" alt="rejoyan islam" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=imsourobh" &label=Profile%20views&color=0e75b6&style=flat" alt="Soumik" /> </p>
 
 
 
